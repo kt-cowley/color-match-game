@@ -3,7 +3,7 @@ import s from "./component-styles/ColorComponent.module.css";
 import PropTypes from "prop-types";
 import { BLACK, WHITE, YELLOW } from "../color-constants";
 
-export default class ColorComponent extends React.PureComponent {
+export default class ColorComponent extends React.Component {
   handleClick = () => {
     this.props.onClick(this.props.color);
   };
