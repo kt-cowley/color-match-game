@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/color-match-game/static/css/main.ab0f200a.chunk.css",
-    "main.js": "/color-match-game/static/js/main.8db7a305.chunk.js",
-    "main.js.map": "/color-match-game/static/js/main.8db7a305.chunk.js.map",
+    "main.js": "/color-match-game/static/js/main.9af17df0.chunk.js",
+    "main.js.map": "/color-match-game/static/js/main.9af17df0.chunk.js.map",
     "runtime~main.js": "/color-match-game/static/js/runtime~main.0cf3dba2.js",
     "runtime~main.js.map": "/color-match-game/static/js/runtime~main.0cf3dba2.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/color-match-game/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.5c27d705.chunk.js": "/color-match-game/static/js/2.5c27d705.chunk.js",
     "static/js/2.5c27d705.chunk.js.map": "/color-match-game/static/js/2.5c27d705.chunk.js.map",
     "index.html": "/color-match-game/index.html",
-    "precache-manifest.85897cf035b3d196c924d1d38356f253.js": "/color-match-game/precache-manifest.85897cf035b3d196c924d1d38356f253.js",
+    "precache-manifest.16774d35c0bbf4bbe552a99d83aa7edc.js": "/color-match-game/precache-manifest.16774d35c0bbf4bbe552a99d83aa7edc.js",
     "service-worker.js": "/color-match-game/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/color-match-game/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.ab0f200a.chunk.css.map": "/color-match-game/static/css/main.ab0f200a.chunk.css.map"
