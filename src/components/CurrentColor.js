@@ -12,8 +12,6 @@ class CurrentColor extends React.Component {
     super(props);
   }
   checkColor = current_color => {
-    console.log(this.props.game.level);
-    console.log(TOTAL_LEVELS);
     if (current_color.name === this.props.targetColor.name) {
       if (this.props.game.level < TOTAL_LEVELS - 1) {
         let _this = this;
