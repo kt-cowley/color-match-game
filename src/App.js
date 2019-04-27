@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import GameCanvas from "./components/GameCanvas";
 import colorActions from "./actions/color-actions";
 import { connect } from "react-redux";
