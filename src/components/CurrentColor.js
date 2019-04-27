@@ -8,6 +8,9 @@ import gameActions from "../actions/game-actions";
 import PropTypes from "prop-types";
 
 class CurrentColor extends React.Component {
+  constructor(props) {
+    super(props);
+  }
   checkColor = current_color => {
     console.log(this.props.game.level);
     console.log(TOTAL_LEVELS);
