@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8254835f55e6e727e16242688a84ff76",
+    "revision": "86fb880f273fd07d4b0cd3f4e71eaaf6",
     "url": "/color-match-game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/color-match-game/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "fdf9fbffdff2983f9f27",
+    "revision": "0fd06efd929afb96faff",
     "url": "/color-match-game/static/css/main.ab0f200a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/color-match-game/static/js/2.5c27d705.chunk.js"
   },
   {
-    "revision": "fdf9fbffdff2983f9f27",
-    "url": "/color-match-game/static/js/main.9af17df0.chunk.js"
+    "revision": "0fd06efd929afb96faff",
+    "url": "/color-match-game/static/js/main.38a82cb7.chunk.js"
   },
   {
     "revision": "6d412181f8fd9c045772",

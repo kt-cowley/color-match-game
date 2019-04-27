@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/color-match-game/precache-manifest.16774d35c0bbf4bbe552a99d83aa7edc.js"
+  "/color-match-game/precache-manifest.aa67fa41deb7dc09656ad32f5ce579de.js"
 );
 
 self.addEventListener('message', (event) => {
