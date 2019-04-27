@@ -10,7 +10,11 @@ import PropTypes from "prop-types";
 class CurrentColor extends React.Component {
   constructor(props) {
     super(props);
+    // Empty state sent in order to ensure constructor is called
+    // if not, ReferenceError triggers for 'this' in checkColor
+    this.state = {};
   }
+
   checkColor = current_color => {
     if (current_color.name === this.props.targetColor.name) {
       if (this.props.game.level < TOTAL_LEVELS - 1) {
